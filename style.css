@@ -1,0 +1,45 @@
+#title-notes {
+    border: 5px solid seagreen;
+    margin: 5px;
+    padding: 5px;
+}
+
+h2 {
+    color: red;
+}
+
+
+.org_summary {
+    font-weight: normal;
+    color: green;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+.activities-section {
+    font-weight: normal;
+    color: blue;
+    font-style: italic;
+    font-family: Cambria, sans-serif;
+}
+
+
+.title {
+    font-weight: bold;
+    color: darkblue;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    font-size: 25pt;
+}
+
+#contact-info {
+    font-weight: normal;
+    color: darkgreen;
+    font-style: normal;
+    font-family: 'Book Antiqua', serif;
+    font-size: 11pt;
+}
+
+#heading-text {
+    text-align: center;
+}
